@@ -1,0 +1,30 @@
+.contact {
+  width: 300px;
+  border: 2px solid black; /* 2px - ширина лінії, solid - стиль лінії, black - колір лінії */
+  padding: 10px; /* відступи всередині елемента */
+  margin: 5px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contactSpan {
+  margin-left: 10px;
+}
+
+.contactName {
+  margin-bottom: 10px;
+  font-size: larger;
+}
+.contactNumber {
+  font-size: larger;
+}
+
+.contactBtn {
+  font-size: larger;
+}

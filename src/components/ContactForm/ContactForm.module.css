@@ -1,0 +1,19 @@
+.form {
+  max-width: 272px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  border-radius: 3px;
+  margin-bottom: 12px;
+}
+
+.formInput {
+  margin-bottom: 10px;
+}
+
+.FormBtn {
+  width: 100px;
+  height: 30px;
+  margin: 0 auto;
+}
